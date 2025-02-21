@@ -1,6 +1,7 @@
 # Indolink
 # TodoApp
 
+<img src = './src/images/todo.png' alt='unable to display an image' />
 A simple Todo application that allows users to add, update, delete, and mark tasks as completed. This app is designed to help users organize their tasks efficiently.
 
 ## Features
@@ -20,5 +21,6 @@ A simple Todo application that allows users to add, update, delete, and mark tas
 ## Installation
 
 1. Clone the repository:
-   ```bash
+ ```bash
    git clone https://github.com/GIZE21/Indolink.git
+```
