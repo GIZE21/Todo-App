@@ -1,7 +1,6 @@
-# Indolink
 # TodoApp
 
-<img src = './src/images/todo.png' alt='unable to display an image' />
+<img src = 'src/images/todo.png' alt='unable to display an image' />
 A simple Todo application that allows users to add, update, delete, and mark tasks as completed. This app is designed to help users organize their tasks efficiently.
 
 ## Features
